@@ -60,7 +60,7 @@ Here’s a high-level overview of the main entities and their relationships:
 
 - A User can also be both a host and a guest.
 
-### Future Breakdown
+### Feature Breakdown
 
 | Feature                 | Description                                                                          |
 | ----------------------- | ------------------------------------------------------------------------------------ |
